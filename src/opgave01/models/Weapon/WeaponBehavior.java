@@ -1,4 +1,4 @@
-package opgave01.models;
+package opgave01.models.Weapon;
 
 public interface WeaponBehavior {
 
