@@ -1,6 +1,6 @@
 package opgave02;
 
-import opgave02.models.Billing;
+import opgave02.models.PriceCalc.Billing;
 import opgave02.models.Customer;
 import opgave02.models.Order;
 import opgave02.models.products.Beer;
